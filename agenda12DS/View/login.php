@@ -11,7 +11,7 @@
     <!-- Centraliza o conteúdo -->
     <div class="w3-display-middle" style="width: 30%;">
       <!-- Formulário de Login -->
-      <form action="loginController.php" method="post" class="w3-container w3-card-4 w3-light-grey w3-text-blue">
+      <form action="Controller/Navegacao.php" method="post" class="w3-container w3-card-4 w3-light-grey w3-text-blue">
         <h2 class="w3-center">Login</h2>
         <!-- Campo CPF -->
         <div class="w3-row w3-section">
